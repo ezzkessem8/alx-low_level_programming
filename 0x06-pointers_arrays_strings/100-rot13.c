@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -7,7 +7,6 @@
  *
  * Return: *s
  */
-
 char *rot13(char *s)
 {
 	int i;
