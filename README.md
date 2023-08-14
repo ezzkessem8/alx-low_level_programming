@@ -31,7 +31,7 @@ working in the C language. The specific list of projects I have completed so far
 
 ## Author :African Coder(Norman):
 
-* __David Musau(Norman David)__ <[DavidMusau](https://github.com/davidmusau)>
+* __Ezra Kessem()__ <[Ezzkessem](https://github.com/ezzkessem8)>
 
 ## Acknowledgements :pray:
 
