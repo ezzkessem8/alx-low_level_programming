@@ -29,7 +29,7 @@ working in the C language. The specific list of projects I have completed so far
 * [0x14. C - Bit manipulation](./0x14-bit_manipulation)
 * [0x15. C - File I/O](./0x15-file_io)
 
-## Author :African Coder(Norman):
+## Author:
 
 * __Ezra Kessem()__ <[Ezzkessem](https://github.com/ezzkessem8)>
 
